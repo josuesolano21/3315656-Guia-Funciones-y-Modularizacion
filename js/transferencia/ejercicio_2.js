@@ -23,4 +23,4 @@ mostrar();
 Me he guiado con el for y repitiendolo porque se me hizo más sencillo de esa manera pero también podría usar un Do...while usando el (true) y break para dar un poco más de precisión en las elecciones del usuario
 i como ya se ha visto, es la variable contable (indice), es como la variable numero. Cada i vale 1 (i=1), luego vale 2, luego 3 y asi sucesivamente hasta llegar a 12 y permitir crear las tablas de multiplicar (( let resultado = num * i);) eso multiplica el numero en consecutivo (1, 2, 3, 4) por cada vuelta que se ejecute
 y las " " las usé para mostrar que el texto debe imprimirse tal cual como se muestra y evitar que rebote errro.
-se agrego el mostrar que se pueda ejecutar correctamente */
+se agrego el mostrar que se pueda ejecutar correctamente. */
