@@ -38,4 +38,4 @@ Si la respuesta es SI, el while volverá a entrar, si la respuesta es NO, el cic
 
 El if fuera del while sirve para ejecutarlo una sola vez cuando ya se registraron todos los artículos.
 
-Si el total supera los 100.000, se calcula el 10% con total * 0.10 y se resta del total, si el total no supera los 100.000, el if no hará nada y el total quedará igual.
+Si el total supera los 100.000, se calcula el 10% con total * 0.10 y se resta del total, si el total no supera los 100.000, el if no hará nada y el total quedará igual.*/

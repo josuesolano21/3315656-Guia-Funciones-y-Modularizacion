@@ -35,4 +35,4 @@ if (num < 2) {
 }   Los números 0 y 1 no son primos por definición
 El for anidado prueba dividir num entre todos los números desde 2 hasta justo antes de este.
 
-El % devuelve el residuo de una división. el % divisor === 0 significa que fue exacta
+El % devuelve el residuo de una división. el % divisor === 0 significa que fue exacta*/

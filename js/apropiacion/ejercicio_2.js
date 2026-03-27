@@ -32,12 +32,12 @@ function registrarEstudiantes() {
 
 // Ejecutar
 registrarEstudiantes();
-```
 
-**Salida esperada:**
-```
+
+/*Salida esperada
+
  Ana ingresó al salón.
  Luis no tiene carné, no puede ingresar.
  María ingresó al salón.
  Carlos no tiene carné, no puede ingresar.
- Sofía ingresó al salón.
+ Sofía ingresó al salón.*/
